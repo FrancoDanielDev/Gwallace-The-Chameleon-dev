@@ -1,0 +1,2 @@
+This repository includes a selection of key assets used in the game, such as C# scripts, 3D models, and audio files.
+Please note that not all assets from the game are included here; only the most notable and representative ones are featured.
